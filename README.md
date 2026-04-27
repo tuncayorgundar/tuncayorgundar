@@ -1,6 +1,8 @@
 <!-- HEADER -->
 <div align="center">
 
+# TUNCAY BAYIR
+
 ```
 ████████╗██╗   ██╗███╗   ██╗██████╗  █████╗ ██╗   ██╗
 ╚══██╔══╝██║   ██║████╗  ██║██╔════╝ ██╔══██╗╚██╗ ██╔╝
@@ -10,7 +12,7 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%87%B9%F0%9F%87%B7;AI+%26+Autonomous+Systems+%F0%9F%A4%96;Python+%7C+C%2B%2B+%7C+Dart+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%87%B9%F0%9F%87%B7;AI+%26+Computer+Vision;Autonomous+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -83,9 +85,9 @@ class Tuncay:
 ## `> git log --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuncayorgundar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuncayorgundar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&border_radius=10" height="192" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncayorgundar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncayorgundar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&border_radius=10" height="192" alt="Top Languages" />
 </div>
 
 <div align="center">
