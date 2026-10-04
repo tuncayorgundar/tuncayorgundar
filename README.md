@@ -1,3 +1,19 @@
+<div align="center">
+
+# 🫁 Nefes-AI
+
+### BronkoVision Modülü
+
+Yapay zekâ ve bilgisayarlı görü teknikleriyle akciğer görüntülerinin incelenmesini ve yorumlanmasını desteklemek için geliştirilen bir analiz projesi.
+
+<a href="https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu">
+  <img src="https://img.shields.io/badge/Nefes--AI%20Projesine%20Git-00FFB3?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="Nefes-AI projesini incele" />
+</a>
+
+</div>
+
+---
+
 <!-- HEADER -->
 <div align="center">
 
