@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b386,100:00ffb3&height=200&section=header&text=Tuncay%20Bay%C4%B1r&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Computer%20Vision%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="./header.svg" width="100%" alt="Tuncay Bayır — AI & Computer Vision Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FFB3&center=true&vCenter=true&width=620&lines=Computer+Vision+%E2%80%A2+Object+Detection+%26+Tracking;Autonomous+%26+Swarm+UAV+Systems;Medical+Imaging+%E2%80%A2+Tumor+Segmentation;Edge+AI+%E2%80%A2+LLM+Agents+%E2%80%A2+Multimodal" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Fighter UAV — Otonom Kilitlenme](https://github.com/tuncayorgundar/Fighter-UAV---Otonom-Kilitlenme-ve-Kamikaze-Kontrol-Yazilimi)
+### [Fighter UAV — Otonom Kilitlenme](https://github.com/tuncayorgundar/Fighter-UAV---Otonom-Kilitlenme-ve-Kamikaze-Kontrol-Yazilimi)
 Autonomous target lock-on and kamikaze control software for fighter UAVs — real-time detection & tracking. *(TEKNOFEST Savaşan İHA)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,7 +32,7 @@ Autonomous target lock-on and kamikaze control software for fighter UAVs — rea
 </td>
 <td width="50%" valign="top">
 
-### 🫁 [Nefes AI — BronkoVision](https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu)
+### [Nefes AI — BronkoVision](https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu)
 Tumor detection & segmentation module on medical images, developed at **OnkoNixAi**. *(TEKNOFEST Onkolojide 3T)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ Tumor detection & segmentation module on medical images, developed at **OnkoNixA
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ [Swarm UAV — Senkronizasyon](https://github.com/tuncayorgundar/Swarm-UAV-Senkronizasyon-ve-Gorev-Yonetimi)
+### [Swarm UAV — Senkronizasyon](https://github.com/tuncayorgundar/Swarm-UAV-Senkronizasyon-ve-Gorev-Yonetimi)
 Synchronization and mission management for UAV swarms. *(TEKNOFEST Sürü İHA — team captain)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ Synchronization and mission management for UAV swarms. *(TEKNOFEST Sürü İHA �
 </td>
 <td width="50%" valign="top">
 
-### 📡 [SkyLink — UAV Yer Kontrol](https://github.com/tuncayorgundar/SkyLink-UAV-Destek-ve-Yer-Kontrol-Sistemi)
+### [SkyLink — UAV Yer Kontrol](https://github.com/tuncayorgundar/SkyLink-UAV-Destek-ve-Yer-Kontrol-Sistemi)
 UAV support and ground control station system.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -65,7 +65,7 @@ UAV support and ground control station system.
 <tr>
 <td width="50%" valign="top">
 
-### 👤 [AI Face Recognition Access System](https://github.com/tuncayorgundar/Yapay_Zeka_Destekli_Yuz_Tespiti_Giris_Cikis_Sistemi)
+### [AI Face Recognition Access System](https://github.com/tuncayorgundar/Yapay_Zeka_Destekli_Yuz_Tespiti_Giris_Cikis_Sistemi)
 AI-powered face detection based entry/exit control system.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -74,7 +74,7 @@ AI-powered face detection based entry/exit control system.
 </td>
 <td width="50%" valign="top">
 
-### ☕ [AI Coffee Fortune App](https://github.com/tuncayorgundar/Yapay-Zeka-Destekli-Kahve-Fal-Analiz-Uygulamas-)
+### [AI Coffee Fortune App](https://github.com/tuncayorgundar/Yapay-Zeka-Destekli-Kahve-Fal-Analiz-Uygulamas-)
 AI-powered coffee-cup image analysis mobile app.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -107,9 +107,7 @@ class Tuncay:
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,pytorch,tensorflow,opencv&theme=dark" alt="AI stack"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ros,flutter,firebase,fastapi,docker,linux,git&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,pytorch,tensorflow,opencv,ros,flutter,firebase,fastapi,docker,linux,git&theme=dark&perline=13" alt="Tech stack"/>
 </p>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
@@ -131,6 +129,5 @@ class Tuncay:
 <br/>
 <sub>(The future is in the skies.)</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffb3,50:00b386,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
