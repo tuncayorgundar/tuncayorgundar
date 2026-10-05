@@ -1,3 +1,8 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img src="./header.svg" width="100%" alt="Tuncay Bayır — AI & Computer Vision Engineer"/>
+
+<br/>
+
 <!-- ═══════════════════════════ SHOWCASE ═══════════════════════════ -->
 <table>
 <tr>
