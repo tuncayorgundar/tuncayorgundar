@@ -21,17 +21,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [Fighter UAV — Otonom Kilitlenme](https://github.com/tuncayorgundar/Fighter-UAV---Otonom-Kilitlenme-ve-Kamikaze-Kontrol-Yazilimi)
-Autonomous target lock-on and kamikaze control software for fighter UAVs — real-time detection & tracking. *(TEKNOFEST Savaşan İHA)*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
 ### [Nefes AI — BronkoVision](https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu)
 Tumor detection & segmentation module on medical images, developed at **OnkoNixAi**. *(TEKNOFEST Onkolojide 3T)*
 
@@ -42,6 +31,15 @@ Tumor detection & segmentation module on medical images, developed at **OnkoNixA
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+### [Fighter UAV — Otonom Kilitlenme](https://github.com/tuncayorgundar/Fighter-UAV---Otonom-Kilitlenme-ve-Kamikaze-Kontrol-Yazilimi)
+Autonomous target lock-on and kamikaze control software for fighter UAVs — real-time detection & tracking. *(TEKNOFEST Savaşan İHA)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
 <td width="50%" valign="top">
 
 ### [Swarm UAV — Senkronizasyon](https://github.com/tuncayorgundar/Swarm-UAV-Senkronizasyon-ve-Gorev-Yonetimi)
