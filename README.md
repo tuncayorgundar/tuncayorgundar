@@ -50,7 +50,7 @@ built as Co-Founder & AI/ML Developer at **OnkoNixAi**.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FFB3&center=true&vCenter=true&width=620&lines=Computer+Vision+%E2%80%A2+Object+Detection+%26+Tracking;Autonomous+%26+Swarm+UAV+Systems;Medical+Imaging+%E2%80%A2+Tumor+Segmentation;Edge+AI+%E2%80%A2+LLM+Agents+%E2%80%A2+Multimodal" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/tuncay-bay%C4%B1r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/tuncayorgundar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tuncayorgundar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=tuncayorgundar&style=for-the-badge&color=00b386&label=VIEWS" alt="Profile Views"/>
 
