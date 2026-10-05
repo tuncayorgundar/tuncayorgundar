@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="60%" stop-color="#0f2a24"/>
+      <stop offset="100%" stop-color="#00b386"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ffb3" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ffb3"/>
+      <stop offset="100%" stop-color="#00ffb3" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00ffb3" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="220" rx="14" fill="url(#grid)"/>
+
+  <!-- detection-box motif -->
+  <g fill="none" stroke="#00ffb3" stroke-width="2" stroke-opacity="0.35">
+    <path d="M830 50h-18M830 50v18"/>
+    <path d="M940 50h18M958 50v18" transform="translate(-18 0)"/>
+    <path d="M830 170h-18M830 170v-18"/>
+    <path d="M940 170h18M958 170v-18" transform="translate(-18 0)"/>
+  </g>
+  <circle cx="876" cy="110" r="5" fill="#00ffb3" fill-opacity="0.6">
+    <animate attributeName="fill-opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="60" y="105" fill="#ffffff"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="52" font-weight="700" letter-spacing="1">Tuncay Bayır</text>
+  <text x="62" y="148" fill="#00ffb3"
+        font-family="'Fira Code', Consolas, 'Courier New', monospace"
+        font-size="20">AI &amp; Computer Vision Engineer</text>
+
+  <rect x="60" y="172" width="420" height="2" fill="url(#line)"/>
+</svg>
