@@ -3,47 +3,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════ SHOWCASE ═══════════════════════════ -->
-<table>
-<tr>
-<td width="1000">
-<div align="center">
-
-<br/>
-
-<sub><b>FEATURED PROJECT &nbsp;·&nbsp; ONKONIXAI</b></sub>
-
-<h2><a href="https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu">Nefes AI — BronkoVision</a></h2>
-
-Deep learning–based **tumor detection & segmentation** on medical images,<br/>
-built as Co-Founder & AI/ML Developer at **OnkoNixAi**.
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="230"><b>Detection</b><br/><sub>Locates suspicious regions</sub></td>
-<td align="center" width="230"><b>Segmentation</b><br/><sub>Delineates tumor boundaries</sub></td>
-<td align="center" width="230"><b>Clinical Support</b><br/><sub>Faster, consistent review</sub></td>
-</tr>
-</table>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-00b386?style=for-the-badge)
-![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-Onkolojide_3T_Finalist-ffb84d?style=for-the-badge)
-
-<a href="https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu"><img src="https://img.shields.io/badge/View_Repository-00b386?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
-
-<br/><br/>
-
-</div>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <br/>
@@ -58,10 +17,55 @@ built as Co-Founder & AI/ML Developer at **OnkoNixAi**.
 
 <br/>
 
-<!-- ═══════════════════════════ OTHER PROJECTS ═══════════════════════════ -->
-## Other Projects
+<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
+## Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Nefes AI — BronkoVision](https://github.com/tuncayorgundar/Nefes-AI---BronkoVision-Modulu)
+Deep learning–based **tumor detection & segmentation** on medical images, built as Co-Founder & AI/ML Developer at **OnkoNixAi**. *(TEKNOFEST Onkolojide 3T finalist)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-00b386?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Multispectral Weed Segmentation](https://github.com/tuncayorgundar/multispectral-weed-segmentation)
+Pixel-level **maize & weed segmentation** on multispectral UAV imagery (WeedsGalore) with DeepLabV3+. MSI beats RGB (**83.4 vs 81.2 mIoU**); focal + Dice loss lifts rare weed classes; GSD/flight-altitude analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![DeepLabV3+](https://img.shields.io/badge/DeepLabV3+-555?style=flat-square)
+![UAV](https://img.shields.io/badge/UAV_Imagery-00b386?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Cobot Collision Detection](https://github.com/tuncayorgundar/cobot-collision-detection)
+Distinguishes **accidental collisions from intentional contact** on a KUKA LWR4+ arm using only joint-torque signals — no extra sensors. **97.3% test accuracy**, with leakage and error analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Görselden Özete — Image to Summary](https://github.com/tuncayorgundar/Gorselden_Ozete)
+CLI app that finds the main object in an image (**open-vocabulary YOLOE**), generates keywords with **MobileCLIP2**, searches the web and returns a short extractive summary — with conversational context across images.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOE-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![CLIP](https://img.shields.io/badge/MobileCLIP2-555?style=flat-square)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -87,15 +91,6 @@ Synchronization and mission management for UAV swarms. *(TEKNOFEST Sürü İHA �
 <tr>
 <td width="50%" valign="top">
 
-#### [SkyLink — UAV Yer Kontrol](https://github.com/tuncayorgundar/SkyLink-UAV-Destek-ve-Yer-Kontrol-Sistemi)
-UAV support and ground control station system.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MAVLink](https://img.shields.io/badge/MAVLink-555?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 #### [AI Face Recognition Access System](https://github.com/tuncayorgundar/Yapay_Zeka_Destekli_Yuz_Tespiti_Giris_Cikis_Sistemi)
 AI-powered face detection based entry/exit control system.
 
@@ -103,9 +98,7 @@ AI-powered face detection based entry/exit control system.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 #### [AI Coffee Fortune App](https://github.com/tuncayorgundar/Yapay-Zeka-Destekli-Kahve-Fal-Analiz-Uygulamas-)
 AI-powered coffee-cup image analysis mobile app.
