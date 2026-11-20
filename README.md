@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [Nefes AI — BronkoVision](https://github.com/tuncayorgundar/Nefes-AI-BronkoVision-Modulu)
+#### [Nefes AI — BronkoVision](https://github.com/tuncayorgundar/NefesAI-BronkoVision-Modulu)
 Deep learning–based **tumor detection & segmentation** on medical images, built as Co-Founder & AI/ML Developer at **OnkoNixAi**. *(TEKNOFEST Onkolojide 3T finalist)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
